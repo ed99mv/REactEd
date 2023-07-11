@@ -1,5 +1,13 @@
 div{
-  background-color: rgb(108, 102, 168);
+  background-color: rgb(102, 103, 168);
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+html {
+  align-items: center;
+  background-image: url("https://prod.assets.earlygamecdn.com/images/Cosmic-Zephyr-Yasuo-Splash.jpg?transform=galleryItem_webp");
+  background-repeat: no-repeat;
+
 }
