@@ -1,9 +1,9 @@
 import "./App.css";
-import Navigation from "./components/navigation";
+import Layout from "./layouts/mainlayout";
 function App() {
   return (
     <div>
-      <Navigation sesion={false}/>
+      <Layout/>
     </div>
   );
 }
